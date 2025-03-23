@@ -109,3 +109,7 @@ chat:
   area-set-spawn: '&aLocal de spawn da área setado com sucesso.'
   area-bought: '&aVocê comprou a área.'
   slot-empty: '&cO slot {slot} deve estar vazio para poder receber a ferramenta. Por favor, re-entre no campo.'
+  skin-found: '&cEsta skin não existe. Disponíveis: &7{list}'
+  skin-give: '&bVocê deu uma skin para o jogador &f{player}&b.'
+  skin-has: '&aA ferramenta já possui esta ou uma melhor skin ativada.'
+  skin-activated: '&aSkin ativada com sucesso.'

@@ -3,23 +3,11 @@ Skins:
     order: 1
     type: 'STONE'
     custom-model-data: 0
+    name: '&bTesoura &7[{broken}]'
     item:
       material: 'STONE'
       name: '&aSkin de Pedra'
       lore: ['&7Esta é a skin de pedra. Você é pobre.', '', '&fBônus: &a10%', '&fPrioridade: &a1', '', '&aClique na ferramenta para ativar']
-    menu:
-      equip:
-        material: 'STONE'
-        name: '&aSkin de Pedra'
-        lore: [ '&7Esta é a skin de pedra. Você é pobre.', '', '&fBônus: &a10%', '&fPrioridade: &a1', '', '&aClique para equipar' ]
-      equipped:
-        material: 'STONE'
-        name: '&aSkin de Pedra'
-        lore: [ '&7Esta é a skin de pedra. Você é pobre.', '', '&fBônus: &a10%', '&fPrioridade: &a1', '', '&aJá está equipada' ]
-      has:
-        material: 'STONE'
-        name: '&aSkin de Pedra'
-        lore: [ '&7Esta é a skin de pedra. Você é pobre.', '', '&fBônus: &a10%', '&fPrioridade: &a1', '', '&cVocê não possui esta skin' ]
     lore:
       - '&7Inquebrável ∞'
       - '{enchants}'
