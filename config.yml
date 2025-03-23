@@ -85,6 +85,8 @@ give-enter: true
 # Altura do void do seu servidor
 void-detect: 0
 
+teste: false
+
 # Sistemas gerais
 general:
   # Slot da ferramenta no inventário
